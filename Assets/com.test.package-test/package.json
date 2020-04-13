@@ -1,9 +1,9 @@
 {
-    "name": "com.s3unity.package_test",
+    "name": "com.test.package-test",
     "version": "0.1.0",
     "displayName": "PackageTest",
     "description": "This is an example package",
-    "unity": "2019.1",
+    "unity": "2018.3",
     "unityRelease": "0b5",
     "dependencies": {
     },
@@ -13,8 +13,7 @@
         "keyword3"
     ],
     "author": {
-        "name": "Unity",
-        "email": "unity@example.com",
-        "url": "https://www.unity3d.com"
+        "name": "zc",
+        "email": "zhangchang_000@163.com",
     }
 }
