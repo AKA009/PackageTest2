@@ -1,6 +1,6 @@
 {
     "name": "com.test.package-test",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "displayName": "PackageTest",
     "description": "This is an example package",
     "unity": "2018.3",
