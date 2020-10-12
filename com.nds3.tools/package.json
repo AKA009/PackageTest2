@@ -1,0 +1,18 @@
+{
+    "name": "com.nds3.tools",
+    "version": "1.3.3",
+    "displayName": "S3UnityTools",
+    "description": "Tools",
+    "unity": "2018.4",
+    "unityRelease": "0b5",
+    "dependencies": 
+    {
+    },
+    "keywords": 
+    [
+    ],
+    "author": 
+    {
+        "name": "Zhangchang_121009"
+    }
+}
